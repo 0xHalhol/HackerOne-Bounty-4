@@ -1,0 +1,4 @@
+staging.contributor.huffpost.fr
+www.huffpost.fr
+contributor.huffpost.fr
+redaction.huffpost.fr

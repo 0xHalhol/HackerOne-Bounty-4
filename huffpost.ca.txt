@@ -1,0 +1,8 @@
+www.huffpost.ca
+quebec.huffpost.ca
+cms.huffpost.ca
+staging.contributor.quebec.huffpost.ca
+contributor.huffpost.ca
+contributor.quebec.huffpost.ca
+cms.quebec.huffpost.ca
+staging.contributor.huffpost.ca
